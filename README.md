@@ -17,6 +17,7 @@ Manual monitoring is error-prone and resource-intensive. By leveraging **YOLOv8s
 - Focus: **General-purpose real-time detection** (not object-specific).  
 - Inputs: **Video files** and **live SSTV camera streams**.  
 
+
 ## 2. System Design & Implementation 🖥️
 
 ### 2.1 Architecture 🏗️  
@@ -29,7 +30,6 @@ Manual monitoring is error-prone and resource-intensive. By leveraging **YOLOv8s
    - Real-time display with bounding boxes/class labels.  
    - Optional video export with annotations.  
 
----
 
 ## 3. Requirements ⚙️
 
@@ -67,7 +67,6 @@ Manual monitoring is error-prone and resource-intensive. By leveraging **YOLOv8s
 - Achieved **~30 FPS** on NVIDIA GTX 1650 (640×640 resolution).  
 - Robust performance in varied lighting/occlusion scenarios.  
 
----
 
 ## 5. Conclusion & Future Work 🚀
 
