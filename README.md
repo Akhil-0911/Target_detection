@@ -48,7 +48,6 @@ Manual monitoring is error-prone and resource-intensive. By leveraging **YOLOv8s
   - Flask (for web integration, optional).  
 - **OS**: Windows/Linux/macOS.  
 
----
 
 ## 4. Model Implementation & Results 🔬
 
