@@ -38,7 +38,7 @@ The system uses **YOLOv8s** for **real-time object detection** in video streams.
 
 To set up and run the **Smart Surveillance System** on your local machine, follow these steps:
 
-1. **Clone the Repository** 📥
+#1. **Clone the Repository** 📥#
    git clone https://github.com/your-username/smart-surveillance-yolov8s.git
    cd smart-surveillance-yolov8s
    
