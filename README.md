@@ -17,8 +17,6 @@ Manual monitoring is error-prone and resource-intensive. By leveraging **YOLOv8s
 - Focus: **General-purpose real-time detection** (not object-specific).  
 - Inputs: **Video files** and **live SSTV camera streams**.  
 
----
-
 ## 2. System Design & Implementation 🖥️
 
 ### 2.1 Architecture 🏗️  
