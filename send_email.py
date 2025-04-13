@@ -3,9 +3,9 @@ import os
 from email.message import EmailMessage
 
 # ✅ Email Configuration
-EMAIL_SENDER = "varunritvik06@gmail.com"
-EMAIL_PASSWORD = "crlusmdmhiyfohse"  # Use App Password for Gmail
-EMAIL_RECEIVER = "varunritvik171@gmail.com"  # Replace with the receiver's email
+EMAIL_SENDER = "sender_email6@gmail.com"
+EMAIL_PASSWORD = "crlusmdmhiyfoh- (app_password_obtained_from_gmail)"  # Use App Password for Gmail
+EMAIL_RECEIVER = "receiver_email@gmail.com"  # Replace with the receiver's email
 
 def send_email(person_image_path, full_frame_path):
     """Sends an email with the detected person image and full frame attached."""
